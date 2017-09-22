@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "dark_bomb1.png",
+	"frame": {"x":449,"y":1,"w":215,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":215,"h":237},
+	"sourceSize": {"w":215,"h":246}
+},
+{
+	"filename": "dark_bomb2.png",
+	"frame": {"x":225,"y":1,"w":222,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":222,"h":243},
+	"sourceSize": {"w":222,"h":257}
+},
+{
+	"filename": "dark_bomb3.png",
+	"frame": {"x":1,"y":1,"w":222,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":222,"h":248},
+	"sourceSize": {"w":222,"h":257}
+},
+{
+	"filename": "dark_missile1.png",
+	"frame": {"x":1133,"y":1,"w":127,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":11,"w":127,"h":141},
+	"sourceSize": {"w":285,"h":166}
+},
+{
+	"filename": "dark_missile2.png",
+	"frame": {"x":1123,"y":146,"w":124,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":28,"w":124,"h":104},
+	"sourceSize": {"w":285,"h":166}
+},
+{
+	"filename": "dark_missile3.png",
+	"frame": {"x":849,"y":162,"w":272,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":36,"w":272,"h":92},
+	"sourceSize": {"w":285,"h":166}
+},
+{
+	"filename": "sword_exploding1.png",
+	"frame": {"x":1006,"y":1,"w":125,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":143},
+	"sourceSize": {"w":125,"h":143}
+},
+{
+	"filename": "sword_exploding2.png",
+	"frame": {"x":849,"y":1,"w":155,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":159},
+	"sourceSize": {"w":155,"h":159}
+},
+{
+	"filename": "sword_exploding3.png",
+	"frame": {"x":666,"y":1,"w":181,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":180},
+	"sourceSize": {"w":181,"h":180}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "boss_skill1.png",
+	"format": "RGBA8888",
+	"size": {"w":1261,"h":255},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3f80032c87ba3ea37d9aeef59a18c333:6e4abb60c56f69ce5f99a364b6560e3c:1cdb375ade64dc76af52335403a92044$"
+}
+}
